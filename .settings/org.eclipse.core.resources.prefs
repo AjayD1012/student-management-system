@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/studentApp/Servlets/AddStudentServlet.java=UTF-8
+encoding//src/main/java/com/studentApp/Servlets/DeleteStudentServlet.java=UTF-8
+encoding//src/main/java/com/studentApp/Servlets/ViewStudentsServlet.java=UTF-8
+encoding//src/main/java/com/studentApp/utils/DBConnection.java=UTF-8
+encoding/<project>=windows-1252
